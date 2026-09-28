@@ -34,3 +34,4 @@ Thumbs.db
 downloads/
 *.part
 *.ytdl
+./downloaded.txt
